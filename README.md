@@ -8,10 +8,10 @@
 
 # About
 
-- Book of MTLG-Group.
+- Book of LGPT-Group.
 - Europe/Germany.
 - Two Major Branches;
-     1. Lux-Awesomes.
+     1. Lux-Nation.
      1. GraveNation.
 -----
 
@@ -53,6 +53,6 @@
 
 <div align="center">
   <p><b>Proudly</b> ❤️ <i><b>Made By</b></i> 👉
-    <a href="https://lucathar.site" rel="org-url">lucathar.site</a> 👈
+    <a href="https://lucathar.site" rel="org-url"><b><i>Lux Nation</i></b></a> 👈
   </p>
 </div>
