@@ -1,7 +1,7 @@
-# [Lukas Samael](https://lukasamael.github.io)
+# [Lux Story](https://luxstories.github.io)
 
-<div align="center">
-  <h1> <img src="https://upld.zone.id/uploads/3fiqg9qiq/logo.webp" width="32px"/> Lux-Book </h1>
+<div align="left">
+  <h1> <img src="https://upld.zone.id/uploads/3fiqg9qiq/logo.webp" width="25px"/> Lux-Book </h1>
 </div>
 
 -----
