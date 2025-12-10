@@ -1,12 +1,12 @@
 {
-  "name": "doks",
-  "version": "1.8.1",
-  "description": "Doks theme",
-  "author": "Thulite",
+  "name": "luxstories",
+  "version": "6.6.6",
+  "description": "Made with Doks theme",
+  "author": "luxstories",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thuliteio/doks.git"
+    "url": "https://github.com/luxstories/luxstories.github.io.git"
   },
   "scripts": {
     "create": "hugo new",
